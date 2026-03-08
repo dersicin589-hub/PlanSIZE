@@ -2,7 +2,7 @@
   "name": "Günlük Planım - Not Defteri ve Planlama",
   "short_name": "Günlük Planım",
   "description": "Günlük görevlerini planla ve notlarını tut",
-  "start_url": "/g-nl-k-planim/index.html",
+  "start_url": "start_url": "/PlanSIZE/index.html",
   "display": "standalone",
   "orientation": "portrait",
   "theme_color": "#1e293b",
